@@ -20,3 +20,4 @@ means that is the files we ran that still has the output that we will use in the
 GNNS.ipynb
 is a modified file from: https://github.com/Alexander-Belyi/GNNS
 this is ran in google colab. please also make sure you have the right file structure in google drive to access the needed files to run the program
+the data files that you need are in a folder called gnns_data. Please put this in your google drive in an appropriate place so that the gnns.ipynb can find it.
