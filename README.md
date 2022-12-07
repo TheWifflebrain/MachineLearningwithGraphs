@@ -21,6 +21,20 @@ GNNS.ipynb
 is a modified file from: https://github.com/Alexander-Belyi/GNNS
 this is ran in google colab. please also make sure you have the right file structure in google drive to access the needed files to run the program. 
 the data files that you need are in a folder called gnns_data. Please put this in your google drive in an appropriate place so that the gnns.ipynb can find it.
+In cell 17 it will have
+    network_file_names = [
+        "de.net",
+        "engb.net",
+        "es.net",
+        "fr.net",
+        "ptbr.net",
+        "ru.net",
+        "large.net"
+    ]
+    return network_file_names
+First, mount your drive to google colab.
+Second, run the cell that imports his github (2nd cell)
+Third, put the xxxx.net files from the community_algorithm folder in google drive. You will see a folder titled GNNS in your mounted google drive. Open that and go to the networks folder and put the xxxx.net files in there.
 
 the community_algorithm folder is the folder that we ran again to make sure everything works.
 it contains the same files as the With_Output folder except we just reran them to make sure it is in working order.
