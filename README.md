@@ -40,5 +40,6 @@ Third, put the xxxx.net files from the community_algorithm folder in google driv
 the community_algorithm folder is the folder that we ran again to make sure everything works.     
 it contains the same files as the With_Output folder except we just reran them to make sure it is in working order.     
 the gnnsdata.ipynb file creates the xxxx.net files needed for the gnns.ipynb.   
-please put those files where the gnns.ipynb can see them.    
+please put those files where the gnns.ipynb can see them (community_algorithm folder)
+Although they are already created amd in the community_algorithm folder. 
 it also contains xxxx.gexf files to visualize the graphs on the program Gephi.    
