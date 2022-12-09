@@ -38,12 +38,12 @@ Second, run the cell that imports his github (2nd cell)
 Third, put the xxxx.net files from the community_algorithm folder in google drive. You will see a folder titled GNNS in your mounted google drive. Open that and go to the networks folder and put the xxxx.net files in there.    
 
 the community_algorithm folder is the folder that we ran again to make sure everything works.     
-it contains the same files as the With_Output folder except we just reran them to make sure it is in working order.     
-the gnnsdata.ipynb file creates the xxxx.net files needed for the gnns.ipynb.   
-please put those files where the gnns.ipynb can see them (community_algorithm folder)
-Although they are already created amd in the community_algorithm folder. 
-it also contains xxxx.gexf files to visualize the graphs on the program Gephi.   
+it contains the same major files as the With_Output folder except we just reran them to make sure it is in working order.     
+the gnnsdata.ipynb file creates the xxxx.net files needed for the gnns.ipynb. (puts it the community_algorithm folder) (all data is also already created for your convience)   
+please put those files where the gnns.ipynb can see them (as described above)    
 The mian files you need to run are TIMES_kmeans.ipynb, TIMES_louvain.pynb    
 gnnsdata.ipynb just creates the data needed for GNNS   
 graphs.ipynb are graphs we used for the paper   
+it also contains xxxx.gexf files to visualize the graphs on the program Gephi.      
+
  
