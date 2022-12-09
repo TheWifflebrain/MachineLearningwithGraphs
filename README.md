@@ -42,4 +42,7 @@ it contains the same files as the With_Output folder except we just reran them t
 the gnnsdata.ipynb file creates the xxxx.net files needed for the gnns.ipynb.   
 please put those files where the gnns.ipynb can see them (community_algorithm folder)
 Although they are already created amd in the community_algorithm folder. 
-it also contains xxxx.gexf files to visualize the graphs on the program Gephi.    
+it also contains xxxx.gexf files to visualize the graphs on the program Gephi.   
+The mian files you need to run are TIMES_kmeans.ipynb, TIMES_louvain.pynb
+gnnsdata.ipynb just creates the data needed for GNNS
+graphs.ipynb are graphs we used for the paper
